@@ -35,6 +35,8 @@ This repository contains the initial stage of a student project to build a clone
 ```
 5. This prompt designates you are in the "HBnB" console. There are a variety of commands available within the console program.
 
+6. 
+
 ##### Commands
     * create - Creates an instance based on given class
 
